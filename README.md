@@ -31,7 +31,7 @@ php artisan migrate:fresh --seed
 php artisan serve
 
 
-## Пользователь с правами админа по кмолчанию:
+## Пользователь с правами админа по умолчанию:
 email:test@example.com
 password:password
 
